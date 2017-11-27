@@ -1,0 +1,1 @@
+call E:\study\zookeeper\zookeeper-3.4.6\zookeeper-3.4.6\bin\zkServer.cmd

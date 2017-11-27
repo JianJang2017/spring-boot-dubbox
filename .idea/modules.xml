@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbox-consumer/dubbox-consumer.iml" filepath="$PROJECT_DIR$/dubbox-consumer/dubbox-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbox-provider/dubbox-provider.iml" filepath="$PROJECT_DIR$/dubbox-provider/dubbox-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbox-service-api/dubbox-service-api.iml" filepath="$PROJECT_DIR$/dubbox-service-api/dubbox-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot.iml" />
+    </modules>
+  </component>
+</project>
